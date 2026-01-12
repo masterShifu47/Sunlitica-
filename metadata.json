@@ -1,0 +1,7 @@
+{
+  "name": "Sunlitica - Intelligent Solar Analytics",
+  "description": "Sunlitica is an intelligent solar analytics platform that designs optimized solar systems using data and AI to deliver precision engineering blueprints.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
